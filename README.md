@@ -1,5 +1,5 @@
 # Note-Rite-MERN-WebApp
-Note Rite is a personalized note keeper or mini personal blog site. Features includes Creating notes/blogs and deleting them. It is built using MERN STACK And Redux is used for Users State Management
+Note Rite is a personalized note keeper or mini personal blog site. Features includes Creating notes/blogs and deleting them. It is built using MERN STACK And Redux is used for Users State Management.React-Bootstrap is used for UI .
 # Deployed App Link 
 https://note-rite.herokuapp.com/
 # Steps to run it on your computer
