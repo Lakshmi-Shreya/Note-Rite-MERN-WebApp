@@ -1,0 +1,27 @@
+.main {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.imgLp {
+  background-image: url("./landingPageImg.png");
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 65vh;
+}
+.txtLp {
+  color: #0c2d48;
+  font-size: 2rem;
+}
+.Main-txtLp {
+  padding: 10px;
+}
+.Sub-txtLp {
+  padding: 10px;
+  color: #050a30;
+}
+.btnLp {
+  margin-top: 12px;
+  margin-right: 40px;
+}

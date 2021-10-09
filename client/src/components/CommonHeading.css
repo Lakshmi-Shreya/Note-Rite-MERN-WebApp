@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Yaldevi:wght@300&display=swap");
+.cmn-heading {
+  display: flex;
+  min-height: 94vh;
+  padding: 25px 0;
+}
+.ctxt-cmn-heading {
+  width: 100%;
+}
+.hdng {
+  color: #050a30;
+  font-family: "Yaldevi", sans-serif;
+  font-size: 50px;
+  padding: 2px 10px;
+}
+@media only screen and (max-width: 600px) {
+  .hdng {
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+  }
+}

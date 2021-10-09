@@ -1,0 +1,15 @@
+.loginDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+/* .wrapup {
+  background-image: url("./loginBgPic.png");
+  background-size: 100px;
+  background-repeat: no-repeat;
+} */
+.signupDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
